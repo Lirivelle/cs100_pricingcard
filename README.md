@@ -1,1 +1,2 @@
-# cs100_pricingcard
+# cs100
+pricingcard
